@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Component-navBarFooterHeroSaection-/static/css/main.f09aaf6b.css",
+    "main.js": "/Component-navBarFooterHeroSaection-/static/js/main.b3d36336.js",
+    "static/media/drstrange.jpg": "/Component-navBarFooterHeroSaection-/static/media/drstrange.5a73407d8a04257c3884.jpg",
+    "static/media/deadpool.jpeg": "/Component-navBarFooterHeroSaection-/static/media/deadpool.c3d8f65b67a26f78e4b8.jpeg",
+    "static/media/thor.jpeg": "/Component-navBarFooterHeroSaection-/static/media/thor.bc010db222784dc8fe98.jpeg",
+    "static/media/captainAmerica.jpeg": "/Component-navBarFooterHeroSaection-/static/media/captainAmerica.74b81e467f1301bcbeec.jpeg",
+    "index.html": "/Component-navBarFooterHeroSaection-/index.html",
+    "main.f09aaf6b.css.map": "/Component-navBarFooterHeroSaection-/static/css/main.f09aaf6b.css.map",
+    "main.b3d36336.js.map": "/Component-navBarFooterHeroSaection-/static/js/main.b3d36336.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f09aaf6b.css",
+    "static/js/main.b3d36336.js"
+  ]
+}
